@@ -1,0 +1,34 @@
+div
+{
+	position: absolute;
+	border: 2px solid blue;
+	background-color: skyblue;
+	top: 10px;
+	width: 80px;
+}
+
+.d1
+{
+	left: 10px;
+	
+}
+
+#d1
+{
+	left: 110px;
+}
+
+.d2
+{
+	left: 210px;
+}
+
+#d2
+{
+	left: 310px;
+}
+
+.d3
+{
+	left: 410px;
+}
